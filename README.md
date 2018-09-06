@@ -125,8 +125,3 @@ htpwdScan
 	  -debug                进入debug模式检查HTTP请求和HTTP响应
 	  -nov                  只显示破解成功的条目，不显示进度
 	  -v                    show program's version number and exit
-
-
-### 反馈 ###
-
-使用中若发现问题，请反馈给我。  my[at]lijiejie.com [http://www.lijiejie.com](http://www.lijiejie.com)
